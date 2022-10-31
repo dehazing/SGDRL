@@ -1,2 +1,2 @@
 # SGDIS
-Unpaired images used in SGDIS
+Related code will be released soon.
