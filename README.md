@@ -2,7 +2,7 @@
 The Pytorch implementation for "Self-guided disentangled representation learning for single image dehazing".
 
 # Paper
-
+![image](https://github.com/dehazing//SGDRL/edit/main/fig/unsupervised.png)
 
 # Prerequisites
 Python 3.7.0
