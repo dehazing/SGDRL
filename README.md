@@ -9,6 +9,7 @@ Detailed structure of SGD networks
 Detailed structure of 𝐷𝐺𝑅𝐸c
 ![image](https://github.com/dehazing/SGDRL/blob/main/fig/DGRECC.png)
 # Prerequisites
+https://github.com/dehazing/SGDRL/blob/main/fig/DGRECC.png
 Python 3.7.0
 PyTorch 1.1.0
 
